@@ -1,0 +1,4 @@
+node_modules
+
+# to avoid compromising sensitive data
+origins

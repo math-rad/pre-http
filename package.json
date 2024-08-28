@@ -1,0 +1,20 @@
+{
+  "name": "pre-http",
+  "version": "1.0.0",
+  "description": "Allows developers to predefine headers and other data for http requests for things like authentication that may have sensitive information in requests that a developer wouldn't want to expose to their clients",
+  "main": "pre-http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1",
+    "globals": "^15.9.0"
+  }
+}
